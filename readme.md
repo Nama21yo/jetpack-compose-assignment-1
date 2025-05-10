@@ -1,5 +1,8 @@
 # Course App with JetPack Compose
 
+### Name - Natnael Yohanes 
+### Section - Section 3
+### ID - UGR/0668/15
 
 It's an app that displays a list of courses, where each course card can be tapped to expand and show more details. 
 The entire UI is built programmatically using `@Composable` functions, moving away from traditional XML layouts.
